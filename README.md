@@ -1,6 +1,7 @@
 # **Temperature Monitoring and Heating Control System with ESP32 and Blynk**
 This project uses an ESP32 microcontroller to monitor temperatures from two different sensors and control a heating system based on the temperature readings. The system can be managed remotely through the Blynk app. It includes features for adjusting temperature thresholds, toggling heating on and off, and applying both manual and potentiometer-based temperature boosts. A warning system is implemented to alert when the temperature exceeds the defined threshold.
 
+## **Demo:**
 [![Watch the Video](https://img.youtube.com/vi/ZOGI0uNmOpo/0.jpg)](https://www.youtube.com/watch?v=ZOGI0uNmOpo)
 
 ## **Features:**
